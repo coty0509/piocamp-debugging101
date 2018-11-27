@@ -7,6 +7,10 @@ let a = 5;
 let b = 1;
 a++;
 // Tu código va aquí
+console.log("a", a);
+
+
+
 
 let sumAB = a + b;
 console.log(sumAB);
