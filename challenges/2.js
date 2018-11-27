@@ -8,3 +8,8 @@ let siete = 7;
 let tres = "3";
 console.log(siete + tres);
 // Tu código va aquí
+console.log(7 + 3);
+console.log(siete + tres)
+console .log(7,3);
+
+
